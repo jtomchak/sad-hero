@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { BrowserRouter as Router, Route, NavLink } from "react-router-dom";
 import "./App.css";
 import Heroes from "../Heroes";
+//import Heroes from "../Heroes/index";
 import HeroForm from "../Heroes/HeroForm";
 import Dashboard from "../Dashboard";
 
